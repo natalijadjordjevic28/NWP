@@ -1,0 +1,21 @@
+.navbar-nav > li{
+    padding-left:10px;
+    padding-right:10px;
+    border: 5px;
+    border-style: solid;
+    border-color: rgb(82, 130, 130);
+  }
+  .navbar-nav li a:hover {
+    color: #590415;
+    background-color: aqua;
+    
+}
+
+.logo{
+    width: 70px;
+    height: 70px;
+    border-radius: 70%;
+    overflow: hidden;
+    margin-top: 6px;
+}
+body {background-color: coral;}
